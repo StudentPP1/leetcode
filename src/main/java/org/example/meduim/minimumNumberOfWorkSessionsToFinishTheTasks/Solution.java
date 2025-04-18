@@ -1,4 +1,4 @@
-package org.example.meduim.MinimumNumberOfWorkSessionsToFinishTheTasks;
+package org.example.meduim.minimumNumberOfWorkSessionsToFinishTheTasks;
 
 import java.util.*;
 
@@ -46,7 +46,7 @@ class Solution {
                 if (canPartition(tasks, sessions, index - 1, sessionTime)) {
                     return true;
                 }
-                sessions[i] -= tasks[index];  // ! Відміняємо вибір (backtrack)
+                sessions[i] -= tasks[index];  // ! Відміняємо вибір (backtrack), потому что закочилось место в сессии (например их три и все заполнены, а елементы остались)
                 System.out.println("↩ Відміняємо задачу " + tasks[index] + " із сесії " + (i + 1) + ": " + Arrays.toString(sessions));
             }
             if (sessions[i] == 0) break;  // ! Оптимізація: якщо ця сесія пуста, інші теж будуть
