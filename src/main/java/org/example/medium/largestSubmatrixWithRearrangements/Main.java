@@ -1,4 +1,4 @@
-package org.example.meduim.largestSubmatrixWithRearrangements;
+package org.example.medium.largestSubmatrixWithRearrangements;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.meduim.lengthOfTheLongestAlphabeticalContinuousSubstring;
+package org.example.medium.lengthOfTheLongestAlphabeticalContinuousSubstring;
 
 class Solution {
     public int longestContinuousSubstring(String s) {

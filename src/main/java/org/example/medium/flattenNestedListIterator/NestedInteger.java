@@ -1,4 +1,4 @@
-package org.example.meduim.flattenNestedListIterator;
+package org.example.medium.flattenNestedListIterator;
 
 import java.util.List;
 

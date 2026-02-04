@@ -1,4 +1,4 @@
-package org.example.meduim.splitArrayintoFibonacciSequence;
+package org.example.medium.splitArrayintoFibonacciSequence;
 
 import java.util.ArrayList;
 import java.util.List;

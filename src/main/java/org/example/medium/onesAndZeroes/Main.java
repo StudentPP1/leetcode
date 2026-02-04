@@ -1,4 +1,4 @@
-package org.example.meduim.onesAndZeroes;
+package org.example.medium.onesAndZeroes;
 
 public class Main {
     public static void main(String[] args) {

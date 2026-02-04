@@ -1,4 +1,4 @@
-package org.example.meduim.addTwoNumbers;
+package org.example.medium.addTwoNumbers;
 
 class Solution {
     private int extra;

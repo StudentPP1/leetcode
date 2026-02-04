@@ -1,4 +1,4 @@
-package org.example.meduim.minimumNumberOfWorkSessionsToFinishTheTasks;
+package org.example.medium.minimumNumberOfWorkSessionsToFinishTheTasks;
 
 public class Main {
     /*

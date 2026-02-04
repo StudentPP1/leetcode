@@ -1,4 +1,4 @@
-package org.example.meduim.onesAndZeroes;
+package org.example.medium.onesAndZeroes;
 public class Solution {
     public int findMaxForm(String[] strs, int m, int n) {
         // dp[i][j] — максимальна кількість рядків, які можна взяти

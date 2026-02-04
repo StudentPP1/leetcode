@@ -1,4 +1,4 @@
-package org.example.meduim.determineifaCellIsReachableataGivenTime;
+package org.example.medium.determineifaCellIsReachableataGivenTime;
 
 public class Main {
     public static void main(String[] args) {

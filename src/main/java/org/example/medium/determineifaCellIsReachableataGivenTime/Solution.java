@@ -1,4 +1,4 @@
-package org.example.meduim.determineifaCellIsReachableataGivenTime;
+package org.example.medium.determineifaCellIsReachableataGivenTime;
 
 public class Solution {
     public boolean isReachableAtTime(int sx, int sy, int fx, int fy, int t) {

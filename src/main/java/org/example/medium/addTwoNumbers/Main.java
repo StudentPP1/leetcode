@@ -1,4 +1,4 @@
-package org.example.meduim.addTwoNumbers;
+package org.example.medium.addTwoNumbers;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.meduim.previousPermutationWithOneSwap;
+package org.example.medium.previousPermutationWithOneSwap;
 
 import java.util.Arrays;
 

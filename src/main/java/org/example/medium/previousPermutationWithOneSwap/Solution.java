@@ -1,4 +1,4 @@
-package org.example.meduim.previousPermutationWithOneSwap;
+package org.example.medium.previousPermutationWithOneSwap;
 class Solution {
     public int[] prevPermOpt1(int[] arr) {
         int idx = -1;
